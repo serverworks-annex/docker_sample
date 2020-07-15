@@ -17,5 +17,5 @@
     // "forwardPorts": [9000],
 
     // Specifies a command that should be run after the container has been created.
-    "postCreateCommand": "sudo pip install -r requirements.txt"
+    "postCreateCommand": "pip install -r requirements.txt"
 }
